@@ -1,0 +1,85 @@
+[33mcommit 925e5afa21c6ba52adbeba2d6e1c8129bb1e7330[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Chris George <cgeorge@royal-01.cs.wisc.edu>
+Date:   Thu Oct 3 18:39:15 2019 -0500
+
+    chris addition
+
+[33mcommit 5a71254134fcd2c968a63503548715a2a550730d[m
+Author: pavlovic2 <pavlovic2@wisc.edu>
+Date:   Thu Oct 3 18:21:41 2019 -0500
+
+    Mirko addition
+
+[33mcommit 583fa50663fa191137c07719c8856eb1ab399663[m
+Author: Siyu Huang <siyuh@royal-20.cs.wisc.edu>
+Date:   Thu Oct 3 00:20:42 2019 -0500
+
+    <Siyu Huang> addition
+
+[33mcommit cb0a9939702e5586f0aed8aa5bd01b4484428b1f[m
+Merge: d09715a 6db7cc4
+Author: Lintong Han <lintong@royal-02.cs.wisc.edu>
+Date:   Wed Oct 2 21:59:01 2019 -0500
+
+    Merge branch 'master' of https://github.com/linbearababy/cs400-story
+    first pull
+
+[33mcommit 6db7cc4b77ea7252d6fefff4205e6bde621f547f[m
+Author: 黄思予 <harveyh@Hs-MacBook-Pro.local>
+Date:   Wed Oct 2 20:05:24 2019 -0500
+
+    <Siyu Huang> addition
+
+[33mcommit 6a64a676ecc832bdc28e552182b69f0407ee2d35[m
+Author: Big Bear <48781111+linbearababy@users.noreply.github.com>
+Date:   Wed Oct 2 18:31:48 2019 -0500
+
+    Rename story.txt to story111.txt
+
+[33mcommit ece5067bfb3234c406470b15b193f544455a486a[m
+Author: Chris George <cgeorge@royal-18.cs.wisc.edu>
+Date:   Wed Oct 2 18:28:54 2019 -0500
+
+    chris addition
+
+[33mcommit 67511e9ad668f9fc6ac6db814136f5ad362b856c[m
+Author: Big Bear <48781111+linbearababy@users.noreply.github.com>
+Date:   Wed Oct 2 18:23:49 2019 -0500
+
+    Create story.txt
+
+[33mcommit d09715a501909b7ab6349f0b41a20dc43ae97573[m
+Author: Lintong Han <lintong@rockhopper-05.cs.wisc.edu>
+Date:   Wed Oct 2 18:21:35 2019 -0500
+
+    adding
+
+[33mcommit cef09f53d2faf144e73a1a8a3aef837be29e34c9[m
+Author: Big Bear <48781111+linbearababy@users.noreply.github.com>
+Date:   Wed Oct 2 18:09:34 2019 -0500
+
+    Delete story(1).txt
+
+[33mcommit 7c67f4669de8b2ec4fee24530ec751d9a4ab46fb[m
+Author: Big Bear <48781111+linbearababy@users.noreply.github.com>
+Date:   Wed Oct 2 17:40:38 2019 -0500
+
+    Rename story.txt to story(1).txt
+
+[33mcommit 899b9397ea467acc6b89e83141bfb574bde3b77b[m
+Author: 黄思予 <harveyh@Hs-MacBook-Pro.local>
+Date:   Wed Oct 2 17:07:58 2019 -0500
+
+    <VirtSiyu> addition
+
+[33mcommit 6753e351ff8b7ad9bba2149381e2b4b0c90c193c[m
+Author: Big Bear <48781111+linbearababy@users.noreply.github.com>
+Date:   Wed Oct 2 16:54:16 2019 -0500
+
+    Create story.txt
+
+[33mcommit 5d2c092f3282be424dc419f78fa26d3c26d97620[m
+Author: Big Bear <48781111+linbearababy@users.noreply.github.com>
+Date:   Wed Oct 2 16:14:57 2019 -0500
+
+    Initial commit
